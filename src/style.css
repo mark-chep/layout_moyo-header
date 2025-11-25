@@ -10,7 +10,6 @@ body {
 .header {
   font-family: Roboto, sans-serif;
   font-size: 12px;
-  height: 60px;
 
   display: flex;
   justify-content: space-between;
